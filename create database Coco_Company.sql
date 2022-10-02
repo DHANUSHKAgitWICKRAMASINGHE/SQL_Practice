@@ -352,3 +352,6 @@ WHERE order_date = '2012-08-17';
 
 /* counts all orders for a 
 date August 17th, 2012. */
+
+
+
